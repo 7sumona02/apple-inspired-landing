@@ -1,8 +1,9 @@
+import TextParallaxContentExample from '@/components/TextParallaxContent'
 import React from 'react'
 
 const Page = () => {
   return (
-    <div>Page</div>
+    <TextParallaxContentExample />
   )
 }
 
